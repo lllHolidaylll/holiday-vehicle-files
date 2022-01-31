@@ -1,8 +1,9 @@
 Version: 1.0.0.1
 Date: 05/18/2021
 Author: Holiday
-Discord: https://discord.gg/My39sue2sX
+Discord: coming soon
 
+# Notes
 To use these you must have your own vehicle files (ytd, yft).
 Insert them in the stream folder, add mods if any.
 Open data files and read them carefully as there's a lot there.

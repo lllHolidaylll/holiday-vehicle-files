@@ -6,7 +6,7 @@
   <Item>
       <modelName>IF YOU DON'T KNOW WHAT GOES HERE JUST MATCH LINE 10</modelName>
       <txdName>IF YOU DON'T KNOW WHAT GOES HERE JUST MATCH LINE 10</txdName>
-      <handlingId>MATCH LINE 6 FROM HANDLING.METS</handlingId>
+      <handlingId>MATCH LINE 6 FROM HANDLING.META</handlingId>
       <gameName>MATCH YOUR YFT FILE NAME</gameName>
       <vehicleMakeName>**The make name, example: Declasse. Can be anything. It can also be nothing with "<vehicleMakeName />" only on this line</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
